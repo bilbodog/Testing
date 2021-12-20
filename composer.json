@@ -1,0 +1,10 @@
+{
+    "name": "bilbodog/testing",
+    "authors": [
+        {
+            "name": "Casper Thomsen",
+            "email": "casperpvp@gmail.com"
+        }
+    ],
+    "require": {}
+}
